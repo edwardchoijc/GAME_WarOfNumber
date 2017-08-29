@@ -1,0 +1,180 @@
+和平的数字王国里面十种数字共存
+
+每种数字都依照他们的意愿做着不同的工作，数字王国也因为他们的存在而发展了2700年
+
+0 出生就身体羸弱，但是却在为数字王国的建设无私奉献着
+1 是速度奇快的跑者，他能借助风达到无与伦比的速度
+2 有着惊人的弹跳，但是他们总是抱怨自己腿太粗
+3 具有暂时分解为粒子的能力，这让他们躲过许多危险
+4 听说是死神的孩子，杀死他的人会受到惩罚
+5 均衡的代表，性格大多很沉稳
+6 具备着奇特的内部结构，有的时候会变成别的数字
+7 伟大的骑士，拥有着极好的视力和高昂的头颅
+8 往往极具经商头脑，对数字的心理也很清楚
+9 天生一副盔甲，却也因为盔甲太重而难于移动
+
+背景故事 <World View>
+数字王国每100年就会换一种数字做为王国的“指导者”，他们肩负着维持算数力场平衡的职责。而在“指导者”里面最杰出的那位，就被大家尊称为“王”。
+王的称号对于每个数字来说都是无上的荣耀，被选中的数字将在100年里领导他的子民，不仅要时刻防备他们邪恶的邻国：字母王国的秘密同化，还要与试图盗取他们王国秘密的敌人：人类维度的“数学家”做着烦人的争斗。
+
+<*Prologue*> New King!
+数字历2016年55月55号，9中最勇敢的人离开了王座，一个周期结束了。再次轮到0作为“指导者”，他们选取了0之中最具智慧的“Z”0 成为“王”，故事也由此展开了。
+
+    //Please finish more story game for unlocking the story of number kingdom.
+
+//教学关 process=1 解锁下面剧情
+
+< ChapterⅠ> Unquiet Number
+因为新王上任庆典的举行，许多数字都来到了数字王国的主城，你也不例外。不想却在参观王城的时候遇到了一点麻烦。
+
+1 集市对战-1
+    可用 2,4,9
+
+2 集市对战-2
+    可用 2,4,9
+
+// process=2 解锁下面剧情
+
+在集市教训了一些那些有点不讲道理的数字，而你果断的决策也吸引了一旁“S”7的注意。他是新任国王的任命的将军，他邀请你来到皇宫，你欣然接受了他的邀请，也想趁机一睹新国王的风采。
+
+< ChapterⅡ> Train By S
+
+皇宫的恢弘让你有点失神，然而“S”没有带你去见“Z”，却带你到了皇宫里的练兵场。“S”解释说新王正在招募勇敢的战士来组建新的军队抵抗外敌，他认为你的潜力十足，不过还需要一点小测试。这激起了你很大的兴趣。
+
+1 S的测试 对战-1
+    可用 1-9
+
+2 S的测试 对战-2
+    可用 1-9
+
+// process=3 解锁下面剧情
+
+测试并不简单，但你成功完成了，也获得了军队里许多数字的敬佩。“S”也对你的表现很满意，准备带你去见一见“Z”。
+
+< ChapterⅢ> King Entrust
+
+你很恭敬的来到会客室，见到了比想象中更瘦弱的“Z”，也终于明白了0里面为什么很少能成为战士。“Z”没有为你对他体质的调侃而恼怒，反而客客气气的和你交谈，你更加觉得这个王要比以往的更加和蔼一些。你们聊了一会天，“Z”支走了旁人，他说他看到了你刚才杰出的表现，希望你能加入军队。
+
+分支
+ 1 
+ 2 
+
+他告诉你就在他成为王这几天开始，王城出现了越来越多不理智的数字，你在集市遇到的就一个例子，他说身在军队的“S”分不开身，而你又恰好本来就是普通的数字方便进到社会里，因此想委托你查一查这一件事。你犹豫再三还是接受了这个委托，不想却在离开皇宫再次遇到了神秘符的攻击。
+
+1 突然袭击 无法得知敌人类型
+    可用 1-9
+
+// process=4 解锁下面剧情
+
+< ChapterⅣ> More Crazy Number?
+
+你依靠自己的智慧打败了无法探知身份的神秘符，捡到了其中一个掉落的物品，隐约有点像来自字母王国的字母经常佩戴的东西，怀疑的矛头不由指向了字母王国。
+回到了王城临时住处，几天之内陆续得到越来越多的数字变得极具攻击性的消息，王发来秘密信件请求你帮助成立的军队肃清失去理智的数字。
+
+1 肃清 
+    可用 1-9
+
+2 肃清
+    可用 1-9 
+
+3 肃清 
+    可用 1-9
+
+总算稳定住了王城局势，越来越多的线索指向了字母王国，你又得到了“S”的消息，请你帮忙抓住字母王国的奸细，你果断的接受了。
+
+// process=5 解锁下面剧情
+
+
+< ChapterⅤ> Complete the Task
+
+1 抓奸细 敌人为字母
+    可用 1-9
+
+你把字母王国的奸细抓住了送到了“S”手里，很高兴自己作为一个普通的数字也能够为王国做贡献。“S”向你转达了王的谢意，并且告诉你“Z”希望你作为一个新晋的人才参加他举办的一个数字首脑的聚餐。
+在聚餐上你被邀请来介绍了一下发现字母阴谋的过程，各个数字首脑深以为然，“Z”在最后提出应该训练出更强大的军队来抵御外敌，除了习惯沉默的5的首脑“F”和外出与字母王国交涉的8“E”，所有数字首脑都同意了这个决定。
+“Z”没有再安排你工作，你带着奖赏开心的回到了家乡。
+
+
+< ChapterⅥ> Congratulations from E
+
+
+
+
+< ChapterⅦ> The Intruder
+
+< ChapterⅨ> A Little Secret
+
+< ChapterⅩ> Train again?
+
+< ChapterⅪ> Search for Truth
+
+< ChapterⅫ> 0
+
+<   Ending > Number World
+
+
+背景故事 <World View>
+数字王国每100年就会换一种数字做为王国的“指导者”，他们肩负着维持算数力场平衡的职责。而在“指导者”里面最杰出的那位，就被大家尊称为“王”。
+王的称号对于每个数字来说都是无上的荣耀，被选中的数字将在100年里领导他的子民，不仅要时刻防备他们邪恶的邻国：字母王国的秘密同化，还要与试图盗取他们王国秘密的敌人：人类维度的“数学家”做着烦人的争斗。
+Every 100 years Digital Kingdom will hold an election to select a number as the Kingdom Mentor, who shoulders the responsibilities of maintaining a balance of "Counting field", and
+the one selected not only need to lead his people to guard against their evil neighbors, the Letter Kingdom, in case to be assimilated secretly, but also try their best to
+fight against the human mathematician, who try to steal their kingdom's secrets.
+What's more, the most outstanding mentor will be regarded as their King, which is an honor for every number.
+
+
+
+<*Prologue*> New King!
+数字历2016年55月55号，9中最勇敢的人离开了王座，一个周期结束了。再次轮到0作为“指导者”，他们选取了0之中最具智慧的“Z”0 成为“王”，故事也由此展开了。
+In May 55th, 2016 of the Number Calendar, the term of the most courageous of "9" who is the King ended, while the new period, which is 0's turn to be the Kingdom Mentor.
+They chose Z, the most intelligent member of Number 0, to be the King, then a new story began...
+
+
+    //Please finish more story game for unlocking the story of Digital Kingdom.
+
+//教学关 process=1 解锁下面剧情
+
+< ChapterⅠ> Troubled Number
+因为新王上任庆典的举行，许多数字都来到了数字王国的主城，你也不例外。不想却在参观王城的时候遇到了一点麻烦。
+Because of the inauguration ceremony of the new King Z, many numbers came to the capital of the Digital Kingdom and you are no exception. Unexpectedly, there are some trouble when you are sightseeing the city.
+
+1 集市对战-1
+    可用 2,4,9
+
+2 集市对战-2
+    可用 2,4,9
+
+// process=2 解锁下面剧情
+
+在集市教训了一些那些有点不讲道理的数字，而你果断的决策也吸引了一旁“S”7的注意。他是新任国王的任命的将军，他邀请你来到皇宫，你欣然接受了他的邀请，也想趁机一睹新国王的风采。
+After kicking their ass, who are rude and brutal, your ability to take bold, decisive action had drawn the attention of S, who is a member of Number 7 and is the General appointed by the new King, so that he invited you to go to the Palace. There is no doubt that you accepted his invitation with pleasure and decide to see the new King by this chance.
+
+< ChapterⅡ> Join in the troop
+
+皇宫的恢弘让你有点失神，然而“S”没有带你去见“Z”，却带你到了皇宫里的练兵场。“S”解释说新王正在招募勇敢的战士来组建新的军队抵抗外敌，他认为你的潜力十足，不过还需要一点小测试。这激起了你很大的兴趣。
+The magnificent Palace amazed you and instead of visiting the King, you was brought to the Soldier Playground. S explained that the King is recruiting brave warriors to form a new army that against foreign enemy and he thought you have real potential so that you can join in the troops after an easy test. After hearing his words, you had great interest in it.
+
+1 S的测试 对战-1
+    可用 1-9
+
+2 S的测试 对战-2
+    可用 1-9
+
+// process=3 解锁下面剧情
+
+测试并不简单，但你成功完成了，也获得了军队里许多数字的敬佩。“S”也对你的表现很满意，准备带你去见一见“Z”。
+Though test isn’t easy, you had finished faultlessly, which make you win many soldier’s admirations. On account of your excellent behavior, S decided to take you to see Z.
+
+< ChapterⅢ> King’s Entrust
+
+你很恭敬的来到会客室，见到了比想象中更瘦弱的“Z”，也终于明白了0里面为什么很少能成为战士。“Z”没有为你对他体质的调侃而恼怒，反而客客气气的和你交谈，你更加觉得这个王要比以往的更加和蔼一些。你们聊了一会天，“Z”支走了旁人，他说他看到了你刚才杰出的表现，希望你能加入军队。
+You came to reception room respectfully and saw Z, who were much more emaciated than you thought, understanding why little of 0 can be a soldier. Rather than getting angry, Z didn’t care about your contempt for his physique and talk with you politely, which make you feel that he was more gracious than usual one. After chatting for a while, Z asked his attendants to leave and talked with you one on one, hoping that you can join in the army.
+
+分支
+ 1 
+ 2 
+
+他告诉你就在他成为王这几天开始，王城出现了越来越多不理智的数字，你在集市遇到的就一个例子，他说身在军队的“S”分不开身，而你又恰好本来就是普通的数字方便进到社会里，因此想委托你查一查这一件事。你犹豫再三还是接受了这个委托，不想却在离开皇宫再次遇到了神秘符的攻击。
+He said, there were an increasing amount of those abnormal numbers since the day he became the new King, just like the rude number you had met in the bazaar. On account that S was too busy to manage the troops and in the meanwhile, you were an ordinary number so that you can make a undercover investigation to figure out this case.
+You accepted his entrust with hesitation and surprisingly you were attacked by a mysterious character again when you were leaving.
+
+

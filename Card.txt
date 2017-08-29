@@ -1,0 +1,31 @@
+1 1 3 10 6 5 5 0 1
+2 2 2 10 4 5 5 1 1
+3 3 2 11 3 5 5 1 1
+4 4 4 5 6 5 5 1 1
+5 5 3 0 0 0 0 0 0
+6 6 5 11 6 5 5 1 1
+7 7 6 7 5 8 8 1 1
+8 8 8 7 8 5 5 1 1
+9 9 7 0 0 0 0 0 0
+
+card_name 
+card_HP 
+card_cost 
+card_damage 
+card_speed 
+card_horizon.X
+card_horizon.Y
+if_can_attack 
+if_can_move 
+1 火箭 一定时间后加速 不主动攻击 finish
+2 兔子 可以穿墙一次 会主动攻击 finish
+3 闪电 可以闪现躲避一次致死攻击并出现在敌方区域 finish
+4 死神 如果自身死亡，使攻击者不能移动且不能攻击 finish
+5 守护 防御墙，被摧毁则会生成1 finish
+6 赌徒 放置时随机变为任意卡 finish
+7 骑士 搜敌范围更大 会主动攻击 finish
+8 商人 攻击或被他攻击的敌人会变成已放士兵  finish
+9 巨石 无差别抵御一次攻击 finish
+
+
+ 
